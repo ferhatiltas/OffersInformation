@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552796187941",
+    "firebase_url": "https://ornekfirebase-87a71.firebaseio.com",
+    "project_id": "ornekfirebase-87a71",
+    "storage_bucket": "ornekfirebase-87a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552796187941:android:4d85ed13416c6e5d15fecc",
+        "android_client_info": {
+          "package_name": "com.ferhatiltas.bilgisunar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552796187941-59hjprlhmplak3besv4imgmm606cltd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIhJ0TniecV6cd3REGyIy4ulgAfSsCa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552796187941-59hjprlhmplak3besv4imgmm606cltd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

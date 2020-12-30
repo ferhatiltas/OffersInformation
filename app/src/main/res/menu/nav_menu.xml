@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:title="Genel Özellikler">
+    <menu>
+        <item
+            android:id="@+id/nav_item_night"
+            android:icon="@drawable/night"
+            android:title="Gece Modu">
+
+        </item>
+
+        <item android:title="Uygulamayı Paylaşın"
+            android:id="@+id/nav_item_share"
+            android:icon="@drawable/share">
+
+        </item>
+        <item android:title="Puan Verin"
+            android:id="@+id/nav_item_puan"
+            android:icon="@drawable/star">
+
+        </item>
+
+
+    </menu>
+</item>
+    <item android:title=""> </item>
+</menu>

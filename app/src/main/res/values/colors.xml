@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#8F38EA</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="colorGray">#989292</color>
+    <color name="colorBlack">#000000</color>
+
+    <string-array name="bubble">
+
+        <item>#41ffffff</item>
+        <item>#18ffffff</item>
+        <item>#1fffffff</item>
+        <item>#25ffffff</item>
+    </string-array>
+    <string-array name="BubbleAnimations">
+
+    <item>com.github.glomadrian.grav.generator.animation.SideToSideAnimator</item>
+
+    <item>com.github.glomadrian.grav.generator.animation.ShakeAnimator</item>
+
+</string-array></resources>

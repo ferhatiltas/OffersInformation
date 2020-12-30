@@ -1,0 +1,43 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="cardViewStyle">@color/colorBlack</item>
+        <item name="textColor">#000000</item>
+        <item name="backgroundColor">#FFFFFF</item>
+        <item name="browser_actions_text_color">#000000</item>
+        <item name="cardBackgroundColor">#FFFFFF</item>
+        <item name="android:textColorSecondary">@color/colorBlack</item>
+
+
+    </style>
+    <style name="darkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorBlack</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#0072CD</item>
+        <item name="colorButtonNormal">@color/colorWhite</item>
+        <item name="cardViewStyle">@color/colorBlack</item>
+        <item name="textColor">#FFFFFF</item>
+        <item name="cardBackgroundColor">#636363</item>
+        <item name="backgroundColor">#000000</item>
+        <item name="browser_actions_text_color">#FFFFFF</item>
+        <item name="android:textColorSecondary">@color/colorWhite</item>
+
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
